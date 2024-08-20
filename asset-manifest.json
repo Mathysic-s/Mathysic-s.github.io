@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.553ee6d3.css",
-    "main.js": "./static/js/main.6a68c197.js",
+    "main.css": "./static/css/main.442e6474.css",
+    "main.js": "./static/js/main.fa9a3981.js",
+    "static/media/perfil 3D.png": "./static/media/perfil 3D.d2c34af92c6d74d6c632.png",
     "static/media/eb.png": "./static/media/eb.a87f73c1d554e9b491ec.png",
-    "static/media/cartoon2.png": "./static/media/cartoon2.5eab1a225a93d2c9b258.png",
+    "static/media/Logo Cyber - JPEG.jpg": "./static/media/Logo Cyber - JPEG.d6e224aa23c4ce19982f.jpg",
     "static/media/resumo.pdf": "./static/media/resumo.627982b032ab56ecf565.pdf",
     "index.html": "./index.html",
-    "main.553ee6d3.css.map": "./static/css/main.553ee6d3.css.map",
-    "main.6a68c197.js.map": "./static/js/main.6a68c197.js.map"
+    "main.442e6474.css.map": "./static/css/main.442e6474.css.map",
+    "main.fa9a3981.js.map": "./static/js/main.fa9a3981.js.map"
   },
   "entrypoints": [
-    "static/css/main.553ee6d3.css",
-    "static/js/main.6a68c197.js"
+    "static/css/main.442e6474.css",
+    "static/js/main.fa9a3981.js"
   ]
 }
